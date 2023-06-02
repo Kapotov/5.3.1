@@ -73,7 +73,7 @@ Password:
 Login Succeeded
 
 vagrant@ubuntu-20:~/docker$ docker push yogavit/kapotov.netology
-The push refers to repository [docker.io/nkiselyov/nginx]
+The push refers to repository [docker.io/yogavit/kapotov.netology]
 806b424a8071: Pushed
 b6812e8d56d6: Mounted from library/nginx
 7046505147d7: Mounted from library/nginx
