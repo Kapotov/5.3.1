@@ -160,4 +160,4 @@ exit
 
 Соберите Docker образ с Ansible, загрузите на Docker Hub и пришлите ссылку вместе с остальными ответами к задачам.
 
-<https://hub.docker.com/r/nkiselyov/ansible>
+https://hub.docker.com/r/yogavit/kapotov.ansible
