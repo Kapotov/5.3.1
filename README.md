@@ -62,7 +62,8 @@ nginx             latest    fa5269854a5e   25 hours ago         142MB
 ```
 Проверяем результат в браузере
 
-![](img/browser_nginx.png)
+![ZUU0mhZtVfA](https://github.com/Kapotov/5.3.1/assets/123774335/5de69a68-1e05-4960-88b0-2f9e05ddc3b6)
+
 
 
 Отправляем в DockerHub
@@ -84,7 +85,7 @@ f5ab86d69014: Mounted from library/nginx
 ```
 
 Ссылка на репозиторий \
-<(https://hub.docker.com/r/yogavit/kapotov.netology)>
+https://hub.docker.com/r/yogavit/kapotov.netology
 ## Задача 2
 
 Посмотрите на сценарий ниже и ответьте на вопрос:
